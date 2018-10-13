@@ -16,7 +16,7 @@ e: 96912896536931759519808331940782326333645628284169279097335405192551071165193
 
 Now the problem with this is that value of e is as big as the value of n. what's wrong with that? well [this](https://en.wikipedia.org/wiki/Wiener%27s_attack) is wrong with that. Basically we can just get the value of `d` by trying [`continued fraction`](https://en.wikipedia.org/wiki/Continued_fractions). And if we'll have the value of `d` then we can get plaintext by doing `pow(c,d,n)`.
 
-So we go looking for some good weiner attack code and we got it. Just put the value of n and e in variable `e` and `n` in [this](./weiner.py) code.
+So we go looking for some good weiner attack code and we got it. Just put the value of n and e in variable `e` and `n` in [this](./wiener.py) code.
 
 From this we get `d` then `pow(c,d,n)`
 Then decimal-hex-ascii.
