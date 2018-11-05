@@ -6,7 +6,7 @@ These are the writeups for all the CTF we took part.
 
 # Index
 
-| Task                   | Total |
+| Names                   | No. of writeups |
 |------------------------|--------|
 | [`picoCTF 2018`](PicoCTF_writeups_2018/)| 57   |
 | [`GLUG 2018`](GLUG_2018/) | 27   |
