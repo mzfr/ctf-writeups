@@ -10,3 +10,4 @@ These are the writeups for all the CTF we took part.
 |------------------------|--------|
 | [`picoCTF 2018`](PicoCTF_writeups_2018/)| 57   |
 | [`GLUG 2018`](GLUG_2018/) | 27   |
+| [`TUCTF 2018`](TUCTF%202018/) | 13  |
