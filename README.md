@@ -6,9 +6,19 @@ Also check out my writeups for the [wargames](https://github.com/mzfr/Wargames-S
 
 # Index
 
+* __2018__
+
 | Names                   | No. of writeups |
 |------------------------|--------|
 | [`picoCTF 2018`](picoCTF-2018/)| 57   |
 | [`GLUG 2018`](GLUG_2018/) | 27   |
 | [`TUCTF 2018`](TUCTF%202018/) | 13  |
 | [`OtterCTF 2018`](OtterCTF%202018/) | 6 |
+| [`OtterCTF 2018`](OtterCTF%202018/) | 6 |
+
+
+* __2019__
+
+| Names                   | No. of writeups |
+|------------------------|--------|
+| [`xiomara`](xiomara-2019/)| 8   |
