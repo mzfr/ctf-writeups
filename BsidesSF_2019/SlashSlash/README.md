@@ -30,3 +30,4 @@ The password is `SevenPinLock0123456`.
 openssl enc -d -aes-128-cbc -pass pass:SevenPinLock0123456 -in flag.aes128cbc
 ```
 
+FLAG: `CTF{always_add_comments}`
