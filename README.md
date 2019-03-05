@@ -2,6 +2,8 @@
 
 I've been playing CTF from september 2018. These are the writeups for the CTF I have participated in.
 
+Currently I am a member of [OTA](https://opentoallctf.github.io), so most of the @ mentions are the team member of OTA.
+
 Also check out my writeups for the [wargames](https://github.com/mzfr/Wargames-Solutions) that I have tried.
 
 # Index
@@ -22,3 +24,4 @@ Also check out my writeups for the [wargames](https://github.com/mzfr/Wargames-S
 | Names                   | No. of writeups |
 |------------------------|--------|
 | [`xiomara`](xiomara-2019/)| 8   |
+| [`BsidesSF`](BsidesSF_2019/)| 5 |
