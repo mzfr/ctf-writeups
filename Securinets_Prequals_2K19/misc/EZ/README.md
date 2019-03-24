@@ -33,6 +33,7 @@ b4,bgr,lsb,xy       .. text: "ogVev&ffG}g"
 This show that there's some strings hidden there, let's extract that
 
 ```
+➜ zsteg -E "b1,rgb,lsb,xy" pic.png
 --START--
 "The fact is that upon his entrance I had instantly recognized the extreme
 personal danger in which I lay. The only conceivable escape for him lay in silencing
