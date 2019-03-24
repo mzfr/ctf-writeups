@@ -14,6 +14,7 @@ It just OTA was busy hunting flag on 0CTF so our big guns wasn't playing this CT
 | [`Contact me`](Forensic/Contact_me/) | 1000  |
 | [`Easy Trade`](Forensic/Easy_trade/) | 1000|
 | [`Cat hunting`](Forensic/Cat_hunting/) | 1000|
+| [`raretowin`](Forensic/raretowin/) | 1000|
 
 
 * __MISC__
