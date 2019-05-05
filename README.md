@@ -26,3 +26,4 @@ Also check out my writeups for the [wargames](https://github.com/mzfr/Wargames-S
 | [`xiomara`](xiomara-2019/)| 8   |
 | [`BsidesSF`](BsidesSF_2019/)| 5 |
 | [`Securinets prequal`](Securinets_Prequals_2K19/)| 7|
+| [`INShAck-2019`](INShAck-2019/)| 3|
