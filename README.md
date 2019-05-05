@@ -4,7 +4,7 @@ I've been playing CTF from september 2018. These are the writeups for the CTF I 
 
 Currently I am a member of [OTA](https://opentoallctf.github.io), so most of the @ mentions are the team member of OTA.
 
-Also check out my writeups for the [wargames](https://github.com/mzfr/Wargames-Solutions) that I have tried.
+Also check out my writeups for the [HackTheBox](https://github.com/mzfr/HackTheBox-writeups) that I have tried.
 
 # Index
 
