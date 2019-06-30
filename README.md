@@ -27,3 +27,4 @@ Also check out my writeups for the [HackTheBox](https://github.com/mzfr/HackTheB
 | [`BsidesSF`](BsidesSF_2019/)| 5 |
 | [`Securinets prequal`](Securinets_Prequals_2K19/)| 7|
 | [`INShAck-2019`](INShAck-2019/)| 3|
+| [`ISITDTU-2019`](ISITDTU-2019/)| 6|
