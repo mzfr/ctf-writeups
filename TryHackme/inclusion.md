@@ -39,7 +39,7 @@ Since we are a user on the system I checked for sudo right of that user by runni
 ```bash
 sudo -l
 ```
-![](images/sudo-right.png)
+![](images/sudo.png)
 
 We can see that `falconfeast` can run `socat` as `root`. We can search [gtfobins](gtfobins.github.io/) for socat binary. You can also search that using tool like [gtfo](github.com/mzfr/gtfo).
 
